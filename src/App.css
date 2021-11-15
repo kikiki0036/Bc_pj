@@ -142,3 +142,26 @@ body,html{
  .slot-btn:hover{
   background-color: rgb(221, 221, 218);
  }
+ .bar {
+  overflow: hidden;
+  background-color: #333;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+}
+.bar a {
+  float: center;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.bar img
+{
+  width:60px;
+  height:50px;
+}

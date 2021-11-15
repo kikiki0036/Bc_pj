@@ -187,6 +187,7 @@ function App() {
           <button  class="slot-btn" onClick={spin}><p>SPIN</p></button>
           {/* <button onClick={animetion}>test spin </button> */}
         </div>
+        <div class="bar"><a><img src={blue}/>x1<img src={green}/>x1.2<img src={white}/>x1.5<img src={purple}/>x2<img src={orage}/>x2.5</a></div>
 
       </div>
   );
